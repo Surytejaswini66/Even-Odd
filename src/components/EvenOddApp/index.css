@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.container {
+  background: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 60vh;
+  width: 40vw;
+  margin-left: 400px;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+.heading {
+  text-align: center;
+  padding-top: 80px;
+  color: black;
+  font-family: Roboto;
+}
+.header {
+  text-align: center;
+  padding-top: 6px;
+  color: #334155;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.btnContainer {
+  text-align: center;
+  padding-top: 2px;
+}
+.button {
+  background-color: white;
+  border-radius: 4px;
+  border: none;
+  color: #334155;
+  height: 5vh;
+  width: 8vw;
+}
+.wj{
+  font-size:15px;
+}
